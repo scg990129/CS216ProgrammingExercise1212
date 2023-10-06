@@ -1,0 +1,8 @@
+# ninja log v5
+0	1924	1696555086384747751	CMakeFiles/CS216ProgrammingExercise1212.dir/main.cpp.o	36d5cf524df17799
+1927	2096	1696555086560534588	CS216ProgrammingExercise1212	a37e3a27b046901d
+9	2696	1696555532042627798	CMakeFiles/CS216ProgrammingExercise1212.dir/arrayListType.cpp.o	f0b028b111f2f85e
+8	108	1696555795535544195	CMakeFiles/CS216ProgrammingExercise1212.dir/unorderedSetType.cpp.o	86003d02f21c2575
+7	1368	1696555796802049378	CMakeFiles/CS216ProgrammingExercise1212.dir/unorderedArrayListType.cpp.o	434e9776961dac60
+6	1465	1696555796899151236	CMakeFiles/CS216ProgrammingExercise1212.dir/main.cpp.o	36d5cf524df17799
+1465	1624	1696555797066130299	CS216ProgrammingExercise1212	f20be71e8c445e79
