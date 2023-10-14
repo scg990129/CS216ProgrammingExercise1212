@@ -1,14 +1,9 @@
-//
-// Created by Jacob Yeung on 10/5/23.
-//
-
-//#ifndef CS216PROGRAMMINGEXERCISE1212_ARRAYLISTTYPE_H
-//#define CS216PROGRAMMINGEXERCISE1212_ARRAYLISTTYPE_H
 
 #ifndef H_arrayListType
 #define H_arrayListType
 
-class arrayListType{
+class arrayListType
+{
 public:
     bool isEmpty() const;
     //Function to determine whether the list is empty
@@ -124,4 +119,5 @@ protected:
     //size of the list
 };
 
-#endif //CS216PROGRAMMINGEXERCISE1212_ARRAYLISTTYPE_H
+
+#endif

@@ -1,7 +1,3 @@
-//
-// Created by Jacob Yeung on 10/5/23.
-//
-
 
 #ifndef H_unorderedArrayListType
 #define H_unorderedArrayListType
